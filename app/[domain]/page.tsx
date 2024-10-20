@@ -217,7 +217,7 @@ export default async function IndexPage({
             If you wish to keep schale.club running, <br>
             consider{" "}
             <a href="https://www.buymeacoffee.com/schaleclub" className="underline">
-              throwing a few <span><img src="/Pyroxene.png"></img></span> pyroxene at the maintainer
+              throwing a few <span><img src="/Pyrox.png"></img></span> pyroxene at the maintainer
             </a>
             .
         </p>
