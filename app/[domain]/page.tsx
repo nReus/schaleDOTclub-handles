@@ -216,7 +216,7 @@ export default async function IndexPage({
         <p className="mt-6 max-w-lg text-sm">
             If you wish to keep schale.club running, consider{" "}
             <a href="https://www.buymeacoffee.com/schaleclub" className="underline">
-              throwing a few <span><img src="public\Pyroxene.png"></img></span> pyroxene at the maintainer
+              throwing a few <span><img src="/Pyroxene.png"></img></span> pyroxene at the maintainer
             </a>
             .
         </p>
