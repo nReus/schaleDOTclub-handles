@@ -214,8 +214,7 @@ export default async function IndexPage({
             This community handle and service is maintained by nReus, and does not collect any personal data.
         </p>
         <p className="mt-6 max-w-lg text-sm">
-            If you wish to keep schale.club running, <br>
-            consider{" "}
+            If you wish to keep schale.club running, consider{" "}
             <a href="https://www.buymeacoffee.com/schaleclub" className="underline">
               throwing a few <span><img src="/Pyrox.png"></img></span> pyroxene at the maintainer
             </a>
