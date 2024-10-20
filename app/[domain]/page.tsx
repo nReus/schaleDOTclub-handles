@@ -209,6 +209,13 @@ export default async function IndexPage({
             </a>
             .
           </p>
+          <p className="mt-6 max-w-lg text-sm">
+            If you with to keep schale.club running, consider{" "}
+            <a href="https://www.buymeacoffee.com/schaleclub" className="underline">
+              donating to the maintainer
+            </a>
+            .
+          </p>
         </Stage>
       </div>
     </main>
