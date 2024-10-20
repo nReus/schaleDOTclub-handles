@@ -114,7 +114,7 @@ export default async function IndexPage({
           handle for Bluesky
         </h1>
         <p className="max-w-[700px] text-lg text-muted-foreground sm:text-xl">
-          Follow the instructions below to get your own {domain} handle
+          Follow the instructions below to get your own <span className="underline">{domain}</span> handle
         </p>
       </div>
       <div>
@@ -209,14 +209,17 @@ export default async function IndexPage({
             </a>
             .
           </p>
-          <p className="mt-6 max-w-lg text-sm">
+        </Stage>
+        <p className="mt-6 max-w-lg text-sm">
+            This community handle and service is maintained by nReus, and does not collect any personal data.
+        </p>
+        <p className="mt-6 max-w-lg text-sm">
             If you wish to keep schale.club running, consider{" "}
             <a href="https://www.buymeacoffee.com/schaleclub" className="underline">
-              donating to the maintainer
+              throwing a few <span><img src="public\Pyroxene.png"></img></span> pyroxene at the maintainer
             </a>
             .
-          </p>
-        </Stage>
+        </p>
       </div>
     </main>
   )
