@@ -213,6 +213,9 @@ export default async function IndexPage({
             </a>
             .
         </p>
+        <p className="mt-6 max-w-lg text-sm">
+            schale.club is in no way related to Nexon Games or Yostar.
+        </p>
       </div>
     </main>
   )
